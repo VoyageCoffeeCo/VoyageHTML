@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+.sections {
+    height: auto;
+    width: 100%;
+}
+
+#connect {
+    display: flex;
+    flex-direction: row;
+}
+
+#survey-form {
+    width: 60%;
+    height: auto;
+}
+
+.follow-us {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 5%;
+    width: 25%;
+    height: auto;
+}
+
+.logo-pics {
+    height: 50px;
+    width: 50px;
+    margin: 10%;
+}
+
+#footer {
+    margin-top: 20%;
+}
